@@ -4,7 +4,7 @@ This repository contains the final project of the course *Data Science Lab* of P
 
 ## Assignment and Report
 
-Predict the monthly rental price of U.S. apartment listings from structured and unstructured features. See [assignment](Data_Science_Lab__Project_Assignment_Summer_2025.pdf) and [report](Report_project.pdf) for details of the implementation.
+Predict the monthly rental price of U.S. apartment listings from structured and unstructured features. See [assignment](Data_Science_Lab__Project_Assignment_Summer_2025.pdf) and [report](Report.pdf) for details of the implementation.
 
 ## Repository Structure
 
